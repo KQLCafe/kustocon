@@ -6,8 +6,6 @@ repo_url: https://github.com/KQLCafe/kustocon
 # Navigation menu
 nav:
   - Conference: 'index.md'
-  - About: 'about.md'
-  - Code of Conduct: 'Code of Conduct.md'
 
 extra_css:
     - css/extra.css
@@ -46,13 +44,13 @@ theme:
   palette:
     - scheme: default
       primary: black
-      accent: orange
+      accent: grey
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: orange
+      accent: grey
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
