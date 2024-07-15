@@ -40,13 +40,13 @@ theme:
   palette:
     - scheme: default
       primary: black
-      accent: grey
+      accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: cyan
-      accent: cyan
+      primary: black
+      accent: orange
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -90,7 +90,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/KqlCafe
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/groups/14053778/
+      link: https://www.linkedin.com/groups/13066066/
 
 # Markdown Extensions 
 markdown_extensions:
