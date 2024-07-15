@@ -3,7 +3,7 @@ site_url: https://kqlcafe.github.io/kustocon/
 repo_url: https://github.com/KQLCafe/kustocon
 
 
-# Left hand Navigation menu
+# Navigation menu
 nav:
   - Conference: 'index.md'
   - About: 'about.md'
@@ -32,7 +32,7 @@ theme:
     # - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     - navigation.instant
     #- navigation.sections
@@ -81,6 +81,10 @@ extra:
 
 # Markdown Extensions 
 markdown_extensions:
+markdown_extensions:
+  - toc:
+    permalink: true
+  - tables
   - attr_list
   - meta
   - md_in_html
