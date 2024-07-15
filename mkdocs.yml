@@ -12,6 +12,9 @@ nav:
 extra_css:
     - css/extra.css
 
+extra_javascript:
+    - js/custom.js
+
 # Configuration
 repo_url: https://github.com/KQLCafe/kustocon
 repo_name: "kustocon"
@@ -76,7 +79,6 @@ extra:
       link: https://www.linkedin.com/groups/13066066/
 
 # Markdown Extensions 
-markdown_extensions:
 markdown_extensions:
   - toc:
     permalink: true
