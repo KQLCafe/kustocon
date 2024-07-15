@@ -39,7 +39,7 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: organge
+      primary: orange
       accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
