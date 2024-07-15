@@ -80,8 +80,6 @@ extra:
 
 # Markdown Extensions 
 markdown_extensions:
-  - toc:
-    permalink: true
   - tables
   - attr_list
   - meta
