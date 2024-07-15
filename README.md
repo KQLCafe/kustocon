@@ -1,0 +1,2 @@
+# kustocon
+Kusto Conference
