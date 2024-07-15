@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.md-header,
+.md-sidebar,
+.md-footer {
+    background-color: #1a1a1a;
+}
+
+a {
+    color: #1e90ff;
+}
+
+a:hover {
+    color: #00bfff;
+}
+
+.md-main__inner {
+    background-color: black;
+}
+
+.md-nav__link, .md-nav__item {
+    color: white;
+}
+
+.md-nav__link:hover {
+    color: #00bfff;
+}
