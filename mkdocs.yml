@@ -9,10 +9,6 @@ nav:
   - About: 'about.md'
   - Code of Conduct: 'Code of Conduct.md'
 
-hide:
-  - navigation
-  - toc       
-
 extra_css:
     - css/extra.css
 
